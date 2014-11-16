@@ -1,14 +1,4 @@
 
-# emacs-colonoscopy-theme
+# Emacs colonoscopy theme
 
-TODO: Add a proper README.md
-
-## Description
-
-## Usage
-
-## Licence
-
-## Contributing
-
-
+![](https://github.com/emacsfodder/emacs-colonoscopy-theme/raw/master/colonoscopy-theme.png)
